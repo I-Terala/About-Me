@@ -8,14 +8,14 @@ I'm a graduate student in Advanced Data Analytics at the University of North Tex
 
 - **YouTube Trending Videos Analysis** – Analyzing the top 500 trending videos in the US using Google API.
 - **Credit Score Segmentation** – Analyzing financial data to cluster users based on credit scores using K-Means.
-- 
+- **Weather Forecasting Using RNNs** - Analyzes historical temperature, humidity, and wind speed data to forecast future temperatures.
 
 ## Tools & Technologies
 
-- **Languages:** Python, SQL, PHP, R
+- **Languages:** Python, SQL
 - **Analytics:** Pandas, Matplotlib, Seaborn, Excel, SAS EM
 - **Visualization:** Tableau, Plotly
-- **Cloud & ML:** GCP, Scikit-learn, AutoML, BigQuery
+- **Cloud & ML:** GCP, Scikit-learn, TensorFlow and Keras 
 - **Version Control:** Git, GitHub
 
 ## Education
