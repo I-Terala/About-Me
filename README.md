@@ -1,6 +1,6 @@
 # About Me
 
-Hi, I'm Indusree Terala. I’m a Data Analyst and graduate student in Advanced Data Analytics at the University of North Texas, with a strong foundation in data collection, cleaning, analysis, modeling, and visualization. I enjoy transforming raw data into insights that support decision-making, especially in areas like customer segmentation, forecasting, and financial analytics.
+Hi, I'm Indusree Terala. I’m a Data Analyst and graduate student in Advanced Data Analytics at the University of North Texas, with a strong foundation in data collection, cleaning, analysis, modeling, and visualization. I enjoy transforming raw data into insights that support decision-making.
 
 I have hands-on experience with Python, SQL, Tableau, SAS, and cloud tools like Google Cloud Platform. My academic and professional background includes applying machine learning techniques, forecasting models, and conducting real-time data investigations in both team and independent settings.
 
@@ -39,8 +39,8 @@ Client: Google
 - Identified content trends and anomalies to support policy escalation and review.  
 - Mentored new hires and supported team productivity.
 
-**Strategic Talent Associate** – TechnoGen India Pvt. Ltd | Dec 2020 – Oct 2021  
-- Streamlined recruitment processes using data insights, reducing time-to-hire by 20%.  
+**IT Recruiter** – TechnoGen India Pvt. Ltd | Dec 2020 – Oct 2021  
+- Streamlined recruitment processes using data insights.  
 - Improved sourcing quality through ATS data analysis and full-cycle recruitment strategies.  
 - Delivered candidate insights aligned with hiring goals and market trends.
 
@@ -48,10 +48,10 @@ Client: Google
 
 - **Languages:** Python, SQL  
 - **Libraries & ML:** Pandas, NumPy, Scikit-learn, Statsmodels, TensorFlow, Keras  
-- **Visualization:** Tableau, Matplotlib, Seaborn, Plotly  
-- **Forecasting & Modeling:** ARIMA, Logistic Regression, Decision Trees, Random Forest, RNNs  
-- **Cloud & Databases:** Google Cloud Platform, BigQuery, SQL Server  
-- **Other Tools:** SAS Enterprise Miner, Excel (Pivot Tables, Macros), Git, GitHub
+- **Visualization:** Power BI, Matplotlib, Seaborn, Plotly  
+- **Forecasting & Modeling:** ARIMA, Linear & Logistic Regression, Decision Trees, Random Forest, RNNs, KNN Clustering  
+- **Cloud & Databases:** Google Cloud Platform, BigQuery, SQL  
+- **Other Tools:** SAS Enterprise Miner, Excel (Pivot Tables, Macros)
 
 ## Education
 
