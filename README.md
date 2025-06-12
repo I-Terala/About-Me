@@ -51,7 +51,7 @@ Client: Google
 - **Visualization:** Power BI, Matplotlib, Seaborn, Plotly  
 - **Forecasting & Modeling:** ARIMA, Linear & Logistic Regression, Decision Trees, Random Forest, RNNs, KNN Clustering  
 - **Cloud & Databases:** Google Cloud Platform, BigQuery, SQL  
-- **Other Tools:** SAS Enterprise Miner, Excel (Pivot Tables, Macros)
+- **Other Tools:** SAS Enterprise Miner, Excel (Pivot Tables)
 
 ## Education
 
